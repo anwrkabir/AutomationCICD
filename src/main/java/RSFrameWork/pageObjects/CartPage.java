@@ -54,5 +54,5 @@ public class CartPage  extends AbstractComponent {
     }
 
     // this is a comment for testing cicd
-
+// this is a comment for testing cicd
 }
