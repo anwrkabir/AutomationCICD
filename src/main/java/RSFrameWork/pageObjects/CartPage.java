@@ -25,6 +25,7 @@ public class CartPage  extends AbstractComponent {
     private List<WebElement> cartProducts;
 
 
+
     /**
      * Declaring the page object element  for checkOut in the CartPage
      * */
@@ -51,5 +52,7 @@ public class CartPage  extends AbstractComponent {
         CheckOutPage checkOutPage = new CheckOutPage(driver);
         return checkOutPage;
     }
+
+    // this is a comment for testing cicd
 
 }
